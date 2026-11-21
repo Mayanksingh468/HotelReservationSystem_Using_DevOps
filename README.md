@@ -183,4 +183,4 @@ The main objective of this project is to develop a GUI-based Hotel Reservation S
 
 ## Author
 
-Priyanshi Gupta
+Mayank Singh
